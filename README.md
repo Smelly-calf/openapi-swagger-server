@@ -1,6 +1,6 @@
 # Go API Server for swagger
 
-This is a sample server Petstore server. 生成代码地址：[http://swagger.io](http://swagger.io)
+This is a sample server Petstore server. 生成代码地址：[https://editor.swagger.io/](https://editor.swagger.io/)
 
 swagger.yaml 编写遵循 OpenAPI 规范：[https://github.com/OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md#examples-object)
 
@@ -52,4 +52,6 @@ go mod init go-server-server-generated
 
 其他Method用 postman 请求
 
-# openapi-swagger-server
+# client
+
+也可以在 [https://editor.swagger.io/](https://editor.swagger.io/) 生成client代码
