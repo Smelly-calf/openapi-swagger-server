@@ -1,11 +1,14 @@
 # Go API Server for swagger
 
+openapi ：定义与语言无关的 REST api 接口规范，然后使用 code generation 生成任何语言的 API。
+
 This is a sample server Petstore server. 生成代码地址：[https://editor.swagger.io/](https://editor.swagger.io/)
 
-swagger.yaml 编写遵循 OpenAPI 规范：[https://github.com/OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md#examples-object)
+编写 openAPI 文档：[https://github.com/OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md#examples-object)
 
 本项目基于 OpenAPI 3.0.0 规范生成。
 
+<br>
 如自定义 Response schema:
 
 接口 responses 小节新增 "200" 接口规范
